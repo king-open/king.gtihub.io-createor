@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://king-open.github.io/king.gtihub.io-createor/</loc>
     <lastmod>2023-03-06T02:35:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://king-open.github.io/king.gtihub.io-createor/posts/</loc>
     <lastmod>2023-03-06T02:35:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
+    <loc>https://king-open.github.io/king.gtihub.io-createor/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
     <lastmod>2023-03-06T02:35:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://king-open.github.io/king.gtihub.io-createor/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://king-open.github.io/king.gtihub.io-createor/tags/</loc>
   </url>
 </urlset>

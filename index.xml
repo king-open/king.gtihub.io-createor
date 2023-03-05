@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>King博客</title>
-    <link>http://example.org/</link>
+    <link>https://king-open.github.io/king.gtihub.io-createor/</link>
     <description>Recent content on King博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 06 Mar 2023 02:35:53 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 02:35:53 +0800</lastBuildDate><atom:link href="https://king-open.github.io/king.gtihub.io-createor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>https://king-open.github.io/king.gtihub.io-createor/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Mon, 06 Mar 2023 02:35:53 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>https://king-open.github.io/king.gtihub.io-createor/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>开博大吉 第一次用 hugo 创建博客 希望给大家 分享有用的博客</description>
     </item>
     
