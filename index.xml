@@ -6,7 +6,23 @@
     <description>Recent content on King博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 06 Mar 2023 02:35:53 +0800</lastBuildDate><atom:link href="https://king-open.github.io/king.gtihub.io-createor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 11:18:24 +0800</lastBuildDate><atom:link href="https://king-open.github.io/king.gtihub.io-createor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何搭建hugo</title>
+      <link>https://king-open.github.io/king.gtihub.io-createor/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAhugo/</link>
+      <pubDate>Mon, 06 Mar 2023 11:18:24 +0800</pubDate>
+      
+      <guid>https://king-open.github.io/king.gtihub.io-createor/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAhugo/</guid>
+      <description>如何搭建 hugo 官网教程
+hugo new set xxx # 后面接博客名 cd xxx git init git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke themes/ananke echo &amp;#34;theme = &amp;#39;ananke&amp;#39;&amp;#34; &amp;gt;&amp;gt; config.toml 新建博客 hugo new posts/开博大吉.md
+注意的是:
+draft: true # 改成false 改主题： 在config.toml 这个文件里把 这记行 改成
+languageCode = &amp;#39;zh-Hans&amp;#39; title = &amp;#39;xxxx blog&amp;#39; theme = &amp;#39;ananke&amp;#39; 运行 hugo server -D 部署 在官方教程 hugo 后面就没有 他们以为新手会 其实新手不会怎么搭建
+是这样部署的
+hugo cd public 在新建一个文件 .gitignore
+git init ga . gc -m &amp;#39;第一次部署&amp;#39; </description>
+    </item>
+    
     <item>
       <title>开博大吉</title>
       <link>https://king-open.github.io/king.gtihub.io-createor/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
